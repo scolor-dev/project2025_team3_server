@@ -1,0 +1,9 @@
+# 環境変数
+.env
+
+# モジュール
+node_modules/
+
+# DB
+*.db
+*.db*
